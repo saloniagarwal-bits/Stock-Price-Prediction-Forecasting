@@ -1,0 +1,10 @@
+ipykernel
+pandas
+numpy
+tensorflow
+scikit-learn
+pydot
+nltk
+pandas_datareader
+yfinance
+matplotlib
